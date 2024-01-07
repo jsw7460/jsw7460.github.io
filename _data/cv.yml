@@ -24,9 +24,9 @@
   type: time_table
   contents:
     - title: LG AI Research (Intern)
-      year: "10/2023 \n  - Present"
+      year: "10/2023 \n  - "
       description:
-        - Advised by: Moontae Lee 
+        - "Advised by: Moontae Lee"
         - Reinforcement Learning from Human Feedback
         
 
