@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: PPPPpublications
 description: I changed my name from Sangwoo Cho to Sangwoo Shin.
 nav: true
 nav_order: 2
