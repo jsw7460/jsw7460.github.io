@@ -14,6 +14,7 @@
       year: 2022 - Present
       description:
         - Computer Science and Engineering
+        - "Advisor: Honguk Woo"
     - title: B.S
       institution: Sungkyunkwan University, South Korea
       year: 2015 - 2022
@@ -26,7 +27,7 @@
     - title: LG AI Research (Intern)
       year: "10/2023 \n  - "
       description:
-        - "Advised by: Moontae Lee"
+        - "Advisor: Moontae Lee"
         - Controllable LLMs with Multi-Objective RLHF
         
 # - title: Academic Interests
