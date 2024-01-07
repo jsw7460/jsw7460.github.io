@@ -11,14 +11,12 @@
   contents:
     - title: M.S
       institution: Sungkyunkwan University, South Korea
-      year: 08/2022 > 
-            - Present
+      year: 2022 - Present
       description:
         - Computer Science and Engineering
     - title: B.S
       institution: Sungkyunkwan University, South Korea
-      year: 03/2015 >
-            - 03/2022
+      year: 2015 - 2022
       description:
         - Mathematics
 
@@ -26,29 +24,11 @@
   type: time_table
   contents:
     - title: LG AI Research (Intern)
-      year: 10/2023 >
-            - Present
+      year: "10/2023 \n  - Present"
       description:
+        - Advised by: Moontae Lee 
         - Reinforcement Learning from Human Feedback
-        - Advised by Moontae Lee 
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        
 
 - title: Academic Interests
   type: nested_list
