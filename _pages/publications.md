@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: I changed my name from **Sangwoo Cho** to **Sangwoo Shin**
+description: I changed my name from Sangwoo Cho to Sangwoo Shin.
 nav: true
 nav_order: 2
 ---
