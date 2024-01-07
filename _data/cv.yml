@@ -11,12 +11,14 @@
   contents:
     - title: M.S
       institution: Sungkyunkwan University, South Korea
-      year: 08/2022 - Present
+      year: 08/2022 > 
+            - Present
       description:
         - Computer Science and Engineering
     - title: B.S
       institution: Sungkyunkwan University, South Korea
-      year: 03/2015 - 03/2022
+      year: 03/2015 >
+            - 03/2022
       description:
         - Mathematics
 
@@ -24,7 +26,8 @@
   type: time_table
   contents:
     - title: LG AI Research (Intern)
-      year: 10/2023 - Present
+      year: 10/2023 >
+            - Present
       description:
         - Reinforcement Learning from Human Feedback
         - Advised by Moontae Lee 
