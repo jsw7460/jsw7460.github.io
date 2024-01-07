@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: 
+title: publications
 description: I changed my name from Sangwoo Cho to Sangwoo Shin.
 nav: true
 nav_order: 2
