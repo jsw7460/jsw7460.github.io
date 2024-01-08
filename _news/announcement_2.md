@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our [OnIS](https://proceedings.mlr.press/v202/shin23d/shin23d.pdf) got accepted to [ICML2023](https://icml.cc/)
+Our [OnIS](https://proceedings.mlr.press/v202/shin23d/shin23d.pdf) paper got accepted to [ICML2023](https://icml.cc/)!
