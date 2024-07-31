@@ -20,4 +20,4 @@ Hello! I am a M.S. student at Sungkyunkwan University in South Korea. I am a mem
 
 My research interest lies at the intersection of natural language processing (NLP) and reinforcement learning (RL). This involves grounding advanced language models in real-world robotic agents to enable them to perform complex tasks across various environments. It also includes using RL to address the alignment problem in language models.
 
-Prior to my graduate studies, I completed a B.S degree in mathematics, and I am currently working as a Research Intern at LG AI Research.
+Prior to my graduate studies, I earned a B.S degree in mathematics from Sungkyunkwan University.
