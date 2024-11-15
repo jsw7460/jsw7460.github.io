@@ -18,6 +18,6 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! I am a M.S. student at Sungkyunkwan University in South Korea. I am a member of the [CSI-Agent Group](https://sites.google.com/view/csi-agent-group/about?authuser=0) and am being advised by Professor [Honguk Woo](https://scholar.google.co.kr/citations?user=Gaxjc7UAAAAJ&hl=en).
 
-My research interest lies at the intersection of natural language processing (NLP) and reinforcement learning (RL). This involves grounding advanced language models in real-world robotic agents to enable them to perform complex tasks across various environments. It also includes using RL to address the alignment problem in language models.
+My research focuses on language grounding for embodied control, particularly in developing efficient systems that can bridge the gap between large language models and physical robot actions. Specifically, I work on enabling robots to accomplish complex tasks in diverse environments and make LLMs reasoning align with physical environmental contexts.
 
 Prior to my graduate studies, I earned a B.S degree in mathematics from Sungkyunkwan University.
