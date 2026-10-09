@@ -20,4 +20,4 @@ Hello! I am a second-year Ph.D. student in Computer Sciences at the University o
 
 My research focuses on robot learning that works reliably in the real world. I work on reinforcement learning and sim-to-real transfer for legged and humanoid robots, and more recently on learning-based manipulation for automating routine tasks in science labs.
 
-Outside of research, I enjoy studying pure mathematics, particularly Lie theory and differential geometry.
+Outside of research, I enjoy studying pure mathematics, particularly Lie theory and smooth manifolds.
