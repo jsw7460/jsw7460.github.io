@@ -3,46 +3,88 @@
   contents:
     - name: Full Name
       value: Sangwoo Shin
-    - name: Date of Birth
-      value: 6th September 1996
+    - name: Position
+      value: Ph.D. Student in Computer Science, University of Wisconsin–Madison
+    - name: Email
+      value: sshin237@wisc.edu
+
+- title: Research Interests
+  type: list
+  contents:
+    - Robot Learning, Reinforcement Learning, Sim-to-Real Transfer, System Identification, Embodied AI
 
 - title: Education
   type: time_table
   contents:
-    - title: M.S
-      institution: Sungkyunkwan University, South Korea
-      year: 2022 - Present
+    - title: Ph.D. in Computer Science
+      institution: University of Wisconsin–Madison
+      location: Madison, WI
+      year: Aug. 2025 – Present
       description:
-        - Computer Science and Engineering
-        - "Advisor: Honguk Woo"
-    - title: B.S
-      institution: Sungkyunkwan University, South Korea
-      year: 2015 - 2022
+        - "Advisor: Professor Josiah P. Hanna"
+    - title: M.S. in Computer Science
+      institution: Sungkyunkwan University
+      location: Suwon, South Korea
+      year: Mar. 2022 – Aug. 2024
       description:
-        - Mathematics
+        - "Advisor: Professor Honguk Woo"
+    - title: B.S. in Mathematics
+      institution: Sungkyunkwan University
+      location: Suwon, South Korea
+      year: Mar. 2015 – Mar. 2022
+      description:
+        - Summa Cum Laude (GPA 3.83 / 4.00)
 
-- title: Work Experience
+- title: Publications
+  type: list
+  contents:
+    - See the <a href="/publications/">publications page</a>. Publications under the name Sangwoo Cho are mine prior to a name change.
+
+- title: Research & Industry Experience
   type: time_table
   contents:
-    - title: LG AI Research (Intern)
-      year: "10/2023 \n  - "
+    - title: Robotics Intern
+      institution: Diden Robotics
+      year: Dec. 2024 – May 2025
       description:
-        - "Advisor: Moontae Lee"
-        - Controllable LLMs with Multi-Objective RLHF
-        
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items: 
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
+        - "Advisors: Dr. Yong Um, Dr. Joon-Ha Kim"
+        - Developed reinforcement learning frameworks for quadruped robots.
+    - title: Research Intern
+      institution: LG AI Research
+      year: Oct. 2023 – Jan. 2024
+      description:
+        - "Advisors: Dr. Moontae Lee, Dr. Youngsoo Jang"
+        - Researched controllable large language models using multi-objective reinforcement learning from human feedback.
 
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+- title: Open-Source Contributions
+  type: nested_list
+  contents:
+    - title: NVIDIA Newton — Physics Engine
+      items:
+        - Fixed a joint-indexing bug in Warp-to-MuJoCo coordinate conversion kernels and added regression tests (PR #2332).
+        - Fixed namespaced-attribute handling in <code>State.assign</code> via automatic <code>AttributeNamespace</code> discovery (PR #2487).
+    - title: MJLAB — MuJoCo-based Reinforcement Learning Framework
+      items:
+        - Fixed name/ID ordering mismatch in scene entity resolution (PR #876).
+    - title: Genesis — Physics Engine
+      items:
+        - Added <code>filter_link_idx</code> to contact sensors for counterpart-link filtering (PR #2772).
+        - Proposed <code>history_length</code> support for transient-contact detection (Issue #2646, PR #2655).
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Teaching Assistant
+      institution: University of Wisconsin–Madison
+      year: Aug. 2025 – Present
+      description:
+        - "CS 540: Introduction to Artificial Intelligence"
+        - "CS 320: Data Science Programming"
+    - title: Tutoring — Linear Algebra
+      year: Jan. 2020 – Jun. 2020
+      description:
+        - Module theory, Jordan canonical form, diagonalization, duality, and similarity of operators.
+    - title: Tutoring — Algebraic Topology
+      year: Jan. 2021 – Jun. 2021
+      description:
+        - Fundamental groups, homotopy, and homology.
